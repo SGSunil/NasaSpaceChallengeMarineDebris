@@ -1,6 +1,6 @@
 # Nasa Space App Challenge Marine Debris#
 Scope defined by the team - https://github.com/SGSunil/NasaSpaceChallengeMarineDebris/raw/main/Scope.pdf
-Presentation - https://github.com/SGSunil/NasaSpaceChallengeMarineDebris/blob/main/NASA%20SPACE%20APP%20-%20LEVERAGING%20AI%20-%20Team%20Marine%20Saviours.pptx?raw=true
+Presentation - https://docs.google.com/presentation/d/1C6E5QpAJRJ5HfKvkxZcGLef0dJcni9tM/edit?usp=sharing&ouid=112100644664490170460&rtpof=true&sd=true
 Data Analysis - https://github.com/SGSunil/NasaSpaceChallengeMarineDebris/tree/main/Data%20Analysis 
 
 For ML Mask R CNN ML Model
