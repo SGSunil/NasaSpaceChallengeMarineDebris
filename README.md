@@ -17,3 +17,5 @@ Data Analysis - https://github.com/SGSunil/NasaSpaceChallengeMarineDebris/blob/m
 
 For ML Mask R CNN ML Model
   Download coco weights : https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+  
+  #MarineDebris, #Sentinel2, #PlasticDetection, #PlasticDebrisDetection, #DebrisDetection, #RemoteSensing, #NasaSpaceAppChallenge, #NasaSpaceAppChallenge2021
