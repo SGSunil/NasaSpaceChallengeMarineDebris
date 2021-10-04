@@ -1,8 +1,7 @@
 # Nasa Space App Challenge Marine Debris
 Team - Marine Saviours! 
 
-How to go through the project
-First read the project objectives on Nasa Space Challenge Page - https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/details
+How to go through the project, first read the project objectives on Nasa Space Challenge Page - https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/details
 
 Thes read the scope document to learn how we planned when we started the project when there was no clarity of the data and with learning we improved the document.
 
