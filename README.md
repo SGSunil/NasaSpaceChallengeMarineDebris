@@ -13,6 +13,9 @@ Scope defined by the team - https://github.com/SGSunil/NasaSpaceChallengeMarineD
 
 Presentation - https://docs.google.com/presentation/d/1C6E5QpAJRJ5HfKvkxZcGLef0dJcni9tM/edit?usp=sharing&ouid=112100644664490170460&rtpof=true&sd=true
 
+Demo Video - https://github.com/SGSunil/NasaSpaceChallengeMarineDebris/blob/main/Nasa%20Space%20Apps%20Challenge%202021%20-%20Marine%20Debris%20-%20Team%20Marine%20Saviours%20Final.mp4 
+or https://www.youtube.com/watch?v=pO6dwZ4FKu8&ab_channel=Appy%27sUniverse
+
 Data Analysis - https://github.com/SGSunil/NasaSpaceChallengeMarineDebris/blob/main/Data%20Analysis/Sentinel_2_L1C_Data_Analysis.ipynb 
 
 For ML Mask R CNN ML Model
